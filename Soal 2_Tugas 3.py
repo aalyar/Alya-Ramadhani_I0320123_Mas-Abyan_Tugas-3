@@ -12,4 +12,8 @@ Biodata = {"nama" : "Alya Ramadhani",
            "makanan_favorit2" : "nasi goreng",
            "makanan_favorit3" : "dimsum",
            }
-print(Biodata["hobi2"])
+print(Biodata)
+
+Biodata["hobi1"] = "makan"
+print(Biodata)
+
