@@ -25,3 +25,6 @@ print(Biodata)
 
 Biodata.pop("makanan_favorit2")
 print(Biodata)
+
+Biodata["hobi_lain"] = "decor"
+print(Biodata)
