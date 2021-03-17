@@ -19,3 +19,9 @@ print(Biodata)
 
 Biodata["sosmed2"] = "7xkxkkck"
 print(Biodata)
+
+Biodata.pop("makanan_favorit1")
+print(Biodata)
+
+Biodata.pop("makanan_favorit2")
+print(Biodata)
