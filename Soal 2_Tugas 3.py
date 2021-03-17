@@ -17,3 +17,5 @@ print(Biodata)
 Biodata["hobi1"] = "makan"
 print(Biodata)
 
+Biodata["sosmed2"] = "7xkxkkck"
+print(Biodata)
