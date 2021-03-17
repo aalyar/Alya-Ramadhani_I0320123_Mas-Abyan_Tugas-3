@@ -8,3 +8,7 @@ print(list)
 
 list.extend(['Maurich', 'Sekar'])
 print(list)
+
+print(list * 2)
+
+print(len(list))
