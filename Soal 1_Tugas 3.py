@@ -9,6 +9,7 @@ print(list)
 list.extend(['Maurich', 'Sekar'])
 print(list)
 
-print(list * 2)
+for isi in list:
+    print(isi)
 
 print(len(list))
