@@ -19,6 +19,7 @@ print("Main account instagram saya : %s" % Biodata["sosmed1"])
 print("2nd account instagram saya : %s" % Biodata["sosmed2"])
 print("3rd account insatgram saya : %s" % Biodata["sosmed3"])
 
+
 Biodata["hobi1"] = "makan"
 print(Biodata)
 
