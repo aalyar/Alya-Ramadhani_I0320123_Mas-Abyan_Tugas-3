@@ -1,5 +1,7 @@
 list = ['Diva','Yuki', 'Rara', 'Salma','Ica','Aji', 'Rahmat', 'Zafira', 'Tsania', 'Rana']
-print(list[4],list[6],list[7])
+print("teman di list ke-4 adalah : ", list[4])
+print("teman di list ke-6 adalah : ", list[6])
+print("teman di list ke-7 adalah : ", list[7])
 
 list[3] = 'Wanda'
 list[5] = 'Utsman'
