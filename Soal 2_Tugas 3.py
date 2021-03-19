@@ -19,6 +19,7 @@ print("Main account instagram saya : %s" % Biodata["sosmed1"])
 print("2nd account instagram saya : %s" % Biodata["sosmed2"])
 print("3rd account insatgram saya : %s" % Biodata["sosmed3"])
 print("Saya suka mendengarkan lagu yang berjudul %s" % Biodata["lagu_favorit1"], ", %s" % Biodata["lagu_favorit2"], ", dan %s" % Biodata["lagu_favorit3"])
+print("Makanan favorit saya adalah %s" % Biodata["makanan_favorit1"], ", %s" % Biodata["makanan_favorit2"], ", dan %s" % Biodata["makanan_favorit3"])
 
 Biodata["hobi1"] = "makan"
 print(Biodata)
