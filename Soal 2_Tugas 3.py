@@ -12,7 +12,12 @@ Biodata = {"nama" : "Alya Ramadhani",
            "makanan_favorit2" : "nasi goreng",
            "makanan_favorit3" : "dimsum",
            }
-print(Biodata)
+
+print("Nama saya adalah %s" % Biodata["nama"])
+print("Saya memiliki hobi %s" % Biodata["hobi1"], ", %s" % Biodata["hobi2"], ", dan %s" % Biodata["hobi3"])
+print("Main account instagram saya : %s" % Biodata["sosmed1"])
+print("2nd account instagram saya : %s" % Biodata["sosmed2"])
+print("3rd account insatgram saya : %s" % Biodata["sosmed3"])
 
 Biodata["hobi1"] = "makan"
 print(Biodata)
